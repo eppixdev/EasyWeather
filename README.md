@@ -1,5 +1,5 @@
 # EasyWeather
-Gives the weather for the next three days
+Gives the weather for the next five days.
 
 
 Parses weather using https://openweathermap.org/ API. 
